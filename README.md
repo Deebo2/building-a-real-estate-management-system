@@ -4,7 +4,7 @@ README.md<h3>building a real estate management system</h3>
 <p>The home page</p> <br>
 <img src="img/homeland.png" alt="homeland" title="Optional title"><br>
 <img src="img/homeland1.png" alt="homeland" title="Optional title"><br>
-<img src="img/homeland2.png" alt="homeland" title="Optional title"><br>
+<img src="img/homeland3.png" alt="homeland" title="Optional title"><br>
 <p>Register page</p> <br>
 <img src="img/register.png" alt="homeland" title="Optional title"><br>
 <p>Login page</p> <br>
@@ -21,7 +21,7 @@ README.md<h3>building a real estate management system</h3>
 <p>Admin login page</p> <br>
 <img src="img/admin_login.png" alt="homeland" title="Optional title"><br>
 <p>Admin panel page</p> <br>
-<img src="img/Admin_panel.png" alt="homeland" title="Optional title"><br>
+<img src="img/admin_panel.png" alt="homeland" title="Optional title"><br>
 <p>Admins page</p> <br>
 <img src="img/admins.png" alt="homeland" title="Optional title"><br>
 <p>categories page</p> <br>
